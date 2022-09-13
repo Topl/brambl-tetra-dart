@@ -1,2 +1,2 @@
-# sdk-dart
-Scala-based Topl sDK
+# brambl-tetra-dart
+Dart-based Topl sDK for Tetra
