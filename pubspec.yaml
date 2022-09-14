@@ -1,7 +1,7 @@
 name: brambl_tetra
 description: Dart SDK for the Topl Tetra blockchain
-version: 1.0.0
-# homepage: https://www.example.com
+version: 0.1.0
+homepage: https://github.com/Topl/brambl-tetra-dart
 
 environment:
   sdk: '>=2.17.1 <3.0.0'
